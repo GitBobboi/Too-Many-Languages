@@ -6,4 +6,5 @@ fn main() {
     unsafe {
         fort();
     }
+    println!("Hello from rust!")
 }
